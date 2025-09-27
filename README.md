@@ -1,2 +1,3 @@
 # python_projects-
-pythob basic code + projects
+python basic code + projects
+author - Rekhiv satdeve
